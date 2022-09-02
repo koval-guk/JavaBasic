@@ -1,6 +1,6 @@
 package dz3;
 
-public class Arrays {
+class Arrays {
     public static void main(String[] args) {
         int x = 1;
         int[] num = new int[10];

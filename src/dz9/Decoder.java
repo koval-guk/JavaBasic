@@ -8,10 +8,10 @@ import java.util.Scanner;
 public class Decoder {
     public static void main(String[] args) throws IOException {
         String separator = File.separator;
-        String path = "src"+separator+"dz9"+separator+"Text.txt";
+        String path = "src" + separator + "dz9" + separator + "Text.txt";
         File file = new File(path);
         Scanner scan = new Scanner(file);
-        FileWriter codeWriter = new FileWriter("TextNew.txt",false);
+        FileWriter codeWriter = new FileWriter("TextNew.txt", false);
         String text = "";
         while (scan.hasNextLine()) {
             text = scan.nextLine();
@@ -21,7 +21,7 @@ public class Decoder {
             text = text.replaceAll("\\sсС(\\w+|\\s|\\.|,)", " Java ");
             text = text.replaceAll("\\sкК(\\w+|\\s|\\.|,)", " Java ");
             System.out.println(text);
-            codeWriter.write(text+"\n");
+            codeWriter.write(text + "\n");
             codeWriter.flush();
         }
         scan.close();

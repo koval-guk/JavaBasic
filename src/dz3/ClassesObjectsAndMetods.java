@@ -32,7 +32,7 @@ class Cats {
         if (numOfPaws == 4) {
             System.out.println(color + " cat " + name + " run away!");
         } else {
-            System.out.println(color + " cat " + name + " remained in place, couse he hase only " + numOfPaws + " paws.");
+            System.out.println(color + " cat " + name + " remained in place, cause he hase only " + numOfPaws + " paws.");
         }
     }
 }
