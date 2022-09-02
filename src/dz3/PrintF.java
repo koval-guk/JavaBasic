@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class PrintF {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        //Scanner str = new Scanner(System.in);
         System.out.println("Целое");
         int myInt = scan.nextInt();
         System.out.println("Строка");
@@ -18,7 +17,5 @@ public class PrintF {
         if (myInt < 1110000) {
             System.out.printf("unicode = " + "(%c)", myInt);
         }
-        scan.close();
-        //str.close();
     }
 }
