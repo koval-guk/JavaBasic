@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="some grammatical changes">
+    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz8 again, its lost (">
+      <change afterPath="$PROJECT_DIR$/src/dz11/task1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task3/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task4Alishev/Alishev19This.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task4Alishev/Alishev20Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz11/task5/Bet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -44,19 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Git/JavaBasic",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.PrintF">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="allOther.Calc" />
+}]]></component>
+  <component name="RunManager" selected="Application.Book">
+    <configuration name="Alishev19This" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz11.task4Alishev.Alishev19This" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="allOther.*" />
+          <option name="PATTERN" value="dz11.task4Alishev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz3.PrintF" />
+    <configuration name="Bet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz11.task5.Bet" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz3.*" />
+          <option name="PATTERN" value="dz11.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz10.Task1" />
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz11.task2Book.Book" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz10.*" />
+          <option name="PATTERN" value="dz11.task2Book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="allOther.Test" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz11.task3.Computer" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="allOther.*" />
+          <option name="PATTERN" value="dz11.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="allOther.Proba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="allOther.Proba" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz11.task1.Rectangle" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="allOther.*" />
+          <option name="PATTERN" value="dz11.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintF" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.allOther.Proba" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Calc" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.Bet" />
+        <item itemvalue="Application.Alishev19This" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662145381902</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="some grammatical changes">
+      <created>1662146240582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662146240582</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add dz8 again, its lost (">
+      <created>1662146627797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662146627797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +210,8 @@
     <MESSAGE value="add dz8" />
     <MESSAGE value="add dz9" />
     <MESSAGE value="some grammatical changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some grammatical changes" />
+    <MESSAGE value="add dz8 again, its lost (" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz8 again, its lost (" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
