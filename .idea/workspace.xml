@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz8 again, its lost (">
-      <change afterPath="$PROJECT_DIR$/src/dz11/task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task2Book/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task3/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task4Alishev/Alishev19This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task4Alishev/Alishev20Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz11/task5/Bet.java" afterDir="false" />
+    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz11">
+      <change afterPath="$PROJECT_DIR$/src/dz12/BadPupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz12/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz12/ExcellentPupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz12/GoodPupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz12/Pupil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Book">
+  <component name="RunManager" selected="Application.ClassRoom">
     <configuration name="Alishev19This" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz11.task4Alishev.Alishev19This" />
       <module name="JavaBasic" />
@@ -104,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz12.ClassRoom" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz11.task3.Computer" />
       <module name="JavaBasic" />
@@ -117,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz11.task1.Rectangle" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz11.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassRoom" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.Bet" />
         <item itemvalue="Application.Alishev19This" />
         <item itemvalue="Application.Computer" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662146627797</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add dz11">
+      <created>1662987580339</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662987580339</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +214,8 @@
     <MESSAGE value="add dz9" />
     <MESSAGE value="some grammatical changes" />
     <MESSAGE value="add dz8 again, its lost (" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dz8 again, its lost (" />
+    <MESSAGE value="add dz11" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
