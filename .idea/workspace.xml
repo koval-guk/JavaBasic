@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz12">
+    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz10/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz10/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +57,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.dz13.task2.Main">
-    <configuration name="Bet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz11.task5.Bet" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz11.task5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz11.task2Book.Book" />
       <module name="JavaBasic" />
@@ -109,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz10.Task2" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dz13.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz13.task2.Main" />
       <module name="JavaBasic" />
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.dz13.task2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ClassRoom" />
         <item itemvalue="Application.Book" />
-        <item itemvalue="Application.Bet" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662996142983</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add dz10">
+      <created>1663015009889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663015009889</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +227,8 @@
     <MESSAGE value="add dz8 again, its lost (" />
     <MESSAGE value="add dz11" />
     <MESSAGE value="add dz12" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dz12" />
+    <MESSAGE value="add dz10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
