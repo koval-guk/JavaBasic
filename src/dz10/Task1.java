@@ -8,7 +8,7 @@ public class Task1 {
         int[] arr = new int[20];
         Random rand = new Random();
         for (int i = 0; i < arr.length; i++) {
-            arr[i] = rand.nextInt(20) - 10;
+            arr[i] = rand.nextInt(21) - 10;
         }
         for (int x : arr) {
             System.out.print(x + "; ");
