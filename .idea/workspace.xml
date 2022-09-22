@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/dz14/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz14/Test.java" afterDir="false" />
+    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz14 correct dz10">
+      <change afterPath="$PROJECT_DIR$/src/dz16/task1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz16/task2/Animals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz10/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz10/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dz11/task3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz11/task3/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +60,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Proba">
-    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz12.ClassRoom" />
+  <component name="RunManager" selected="Application.dz16.task2.Main">
+    <configuration name="dz13.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz13.task1.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz12.*" />
+          <option name="PATTERN" value="dz13.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz14.Proba" />
+    <configuration name="dz15.util.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz15.util.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz14.*" />
+          <option name="PATTERN" value="dz15.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz10.Task1" />
+    <configuration name="dz16.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz16.task2.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz10.*" />
+          <option name="PATTERN" value="dz16.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz14.Test" />
+    <configuration name="lesson.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz14.*" />
+          <option name="PATTERN" value="lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dz13.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz13.task2.Main" />
+    <configuration name="shit.task1.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shit.task1.task2.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz13.task2.*" />
+          <option name="PATTERN" value="shit.task1.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Proba" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.dz13.task2.Main" />
-        <item itemvalue="Application.ClassRoom" />
+        <item itemvalue="Application.dz16.task2.Main" />
+        <item itemvalue="Application.dz13.task1.Main" />
+        <item itemvalue="Application.lesson.Main" />
+        <item itemvalue="Application.dz15.util.Main" />
+        <item itemvalue="Application.shit.task1.task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663085034292</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add dz14 correct dz10">
+      <created>1663532989970</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663532989970</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +246,8 @@
     <MESSAGE value="add dz12" />
     <MESSAGE value="add dz10" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add dz14 correct dz10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz14 correct dz10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -249,10 +257,29 @@
           <line>79</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shit/task1/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shit/task1/Main.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="27" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/shit/task1/Main.java</url>
+          <line>32</line>
+          <properties class="shit.Main" method="action">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

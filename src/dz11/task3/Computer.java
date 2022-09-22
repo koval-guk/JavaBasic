@@ -1,7 +1,7 @@
 package dz11.task3;
 
 public class Computer {
-    String name;
+    private String name;
 
     @Override
     public String toString() {
