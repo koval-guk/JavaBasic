@@ -1,4 +1,4 @@
-package dz6;
+package src.dz6;
 
 public class Test29Polymorphism {
     public static void main(String[] args) {

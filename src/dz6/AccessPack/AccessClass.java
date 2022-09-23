@@ -1,4 +1,4 @@
-package dz6.AccessPack;
+package src.dz6.AccessPack;
 
 public class AccessClass {
     public static int accPublic = 5;

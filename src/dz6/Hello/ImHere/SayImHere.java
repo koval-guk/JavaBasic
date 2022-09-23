@@ -1,4 +1,4 @@
-package dz6.Hello.ImHere;
+package src.dz6.Hello.ImHere;
 
 public class SayImHere {
     public void sayI() {

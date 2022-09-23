@@ -1,6 +1,6 @@
-package dz6;
+package src.dz6;
 
-import dz6.AccessPack.AccessClass;
+import src.dz6.AccessPack.AccessClass;
 
 public class Test28AccessMods extends AccessClass {
     public static void main(String[] args) {

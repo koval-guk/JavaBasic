@@ -1,4 +1,4 @@
-package dz6;
+package src.dz6;
 
 public class Pop extends Music {
     @Override

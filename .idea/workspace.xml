@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add">
+    <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add dz16">
+      <change afterPath="$PROJECT_DIR$/src/dz13/task1/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task1/DOCHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task1/TXTHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task1/XMLHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task2/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task2/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dz13/task2/Recordable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/AccessClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/AccessClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/AccessPack/AccessClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/AccessPack/AccessClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/HardRock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/HardRock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Hello/GoodDay/SayGoodDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Hello/GoodDay/SayGoodDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Hello/ImHere/SayImHere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Hello/ImHere/SayImHere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Hello/SayHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Hello/SayHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Pop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Pop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Test26Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Test26Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Test27Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Test27Packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Test28AccessMods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Test28AccessMods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Test29Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Test29Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Test30PrimTypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz6/Test30PrimTypeConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +83,7 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.src.dz13.task1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.dz16.task2.Main" />
       <module name="JavaBasic" />
@@ -84,32 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz10.Task1" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz14.Test" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="dz16.task1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dz16.task1.Test" />
       <module name="JavaBasic" />
@@ -123,13 +123,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="src.dz13.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.dz13.task1.Main" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.dz13.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.dz13.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.dz13.task2.Main" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.dz13.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.src.dz13.task1.Main" />
+        <item itemvalue="Application.src.dz13.task2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.dz16.task1.Test" />
         <item itemvalue="Application.Proba" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663085034292</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add dz16">
+      <created>1663948663266</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663948663266</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +269,8 @@
     <MESSAGE value="add dz12" />
     <MESSAGE value="add dz10" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add dz16" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dz16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

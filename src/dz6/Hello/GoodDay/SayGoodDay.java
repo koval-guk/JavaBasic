@@ -1,4 +1,4 @@
-package dz6.Hello.GoodDay;
+package src.dz6.Hello.GoodDay;
 
 public class SayGoodDay {
     public void sayGD() {

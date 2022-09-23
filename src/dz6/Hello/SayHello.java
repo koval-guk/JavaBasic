@@ -1,4 +1,4 @@
-package dz6.Hello;
+package src.dz6.Hello;
 
 public class SayHello {
     public void sayH() {
