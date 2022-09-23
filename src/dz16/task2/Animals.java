@@ -1,4 +1,4 @@
-package dz16.task2;
+package src.dz16.task2;
 
 enum Animals {
     DOG(5),
@@ -6,8 +6,8 @@ enum Animals {
     GOAT(2),
     RACOON(4);
 
-    private int age;
-    private String name;
+    private final int age;
+    private final String name;
 
     Animals(int age) {
         this.age = age;

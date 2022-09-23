@@ -1,4 +1,4 @@
-package dz16.task1;
+package src.dz16.task1;
 
 interface AbleToEat {
     void eat();

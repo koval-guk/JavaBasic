@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db811cc-175d-4fad-8c94-75ad06cc75b0" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/dz14/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz14/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz10/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz10/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dz11/task3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz11/task3/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Git/JavaBasic&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Git/JavaBasic",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
-  <component name="RunManager" selected="Application.Proba">
-    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz12.ClassRoom" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.dz16.task2.Main" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz12.*" />
+          <option name="PATTERN" value="src.dz16.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dz13.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz13.task2.Main" />
+    <configuration name="dz16.task1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz16.task1.Test" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz13.task2.*" />
+          <option name="PATTERN" value="dz16.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.dz16.task1.Test" />
         <item itemvalue="Application.Proba" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.dz13.task2.Main" />
-        <item itemvalue="Application.ClassRoom" />
       </list>
     </recent_temporary>
   </component>
